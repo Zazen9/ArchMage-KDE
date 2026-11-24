@@ -2,8 +2,6 @@
 
 A dark fantasy desktop with midnight-indigo surfaces, amethyst highlights, and antique gold. The two ultrawide wallpapers are **Eclipse Observatory** and **Midnight Library**. The icon theme adds an eclipse sigil for the application launcher and amethyst folders with symbols for common locations, including Home, Downloads, Pictures, and Documents. Other icons inherit from Breeze.
 
-<img width="2560" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbaa6124-c28d-483f-8419-2a810ac8afef" />
-
 
 ![Archmage artwork and icon preview](theme/plasma/look-and-feel/org.archmage.desktop/contents/previews/fullscreenpreview.jpg)
 
@@ -29,9 +27,11 @@ The installer adds both editions. Open **System Settings → Colors & Themes →
 
 The installer copies the theme into `${XDG_DATA_HOME:-$HOME/.local/share}` and does not modify the active Plasma session.
 
+<img width="2560" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbaa6124-c28d-483f-8419-2a810ac8afef" />
+
 ## Wallpaper artwork
 
-The wallpapers were created with the built-in image generation tool.
+The wallpapers were created with Codex image generation tool.
 
 - **Eclipse Observatory** — Use case: stylized-concept. Original ultrawide KDE wallpaper, cinematic dark fantasy matte painting. An archmage in flowing midnight robes stands before a luminous violet eclipse and immense concentric spell circle in a ruined mountaintop observatory. Amethyst and midnight indigo with restrained antique gold, richly detailed, dark quiet margins for desktop icons, no text or watermark.
 - **Midnight Library** — Use case: stylized-concept. Original ultrawide KDE wallpaper, cinematic dark fantasy matte painting. An abandoned archmage library at midnight, towering shelves and pointed arches framing a floating open spellbook with luminous violet wisps, warm amber lanterns, midnight indigo shadows, quiet dark margins for desktop icons, no text or watermark.
