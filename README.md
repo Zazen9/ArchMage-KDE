@@ -2,6 +2,9 @@
 
 A dark fantasy desktop with midnight-indigo surfaces, amethyst highlights, and antique gold. The two ultrawide wallpapers are **Eclipse Observatory** and **Midnight Library**. The icon theme adds an eclipse sigil for the application launcher and amethyst folders with symbols for common locations, including Home, Downloads, Pictures, and Documents. Other icons inherit from Breeze.
 
+<img width="2560" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbaa6124-c28d-483f-8419-2a810ac8afef" />
+
+
 ![Archmage artwork and icon preview](theme/plasma/look-and-feel/org.archmage.desktop/contents/previews/fullscreenpreview.jpg)
 
 ## Archmage Sapphire
