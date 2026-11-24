@@ -1,0 +1,9 @@
+{
+  "KPlugin": {
+    "Name": "Archmage",
+    "Id": "org.archmage.desktop",
+    "Description": "A midnight-violet desktop with antique-gold accents.",
+    "Version": "1.0.0"
+  },
+  "KPackageStructure": "Plasma/LookAndFeel"
+}

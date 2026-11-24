@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=Archmage Sapphire
+Comment=Sapphire folders and a silver eclipse launcher
+Inherits=breeze-dark,breeze,hicolor
+Directories=scalable/places,scalable/apps
+
+[scalable/places]
+Size=48
+Type=Scalable
+MinSize=8
+MaxSize=512
+Context=Places
+
+[scalable/apps]
+Size=48
+Type=Scalable
+MinSize=8
+MaxSize=512
+Context=Applications

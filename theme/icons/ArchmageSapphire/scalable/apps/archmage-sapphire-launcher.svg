@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <radialGradient id="eclipse"><stop stop-color="#071526"/><stop offset=".72" stop-color="#102f54"/><stop offset="1" stop-color="#225f93"/></radialGradient>
+    <linearGradient id="gold" x2=".85" y2="1"><stop stop-color="#f0fcff"/><stop offset=".54" stop-color="#b4ddf8"/><stop offset="1" stop-color="#5a8bb5"/></linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="28.5" fill="url(#eclipse)" stroke="url(#gold)" stroke-width="2.8"/>
+  <circle cx="32" cy="32" r="23" fill="none" stroke="#8dd6ff" stroke-width="1.1"/>
+  <path d="M32 11l5 14 10 7-10 6-5 15-5-15-10-6 10-7Z" fill="#72bdff" stroke="url(#gold)" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M32 16l3 12 8 4-8 3-3 13-3-13-8-3 8-4Z" fill="#eaffff"/>
+  <circle cx="12" cy="32" r="1.7" fill="#d7f2ff"/><circle cx="52" cy="32" r="1.7" fill="#d7f2ff"/>
+</svg>

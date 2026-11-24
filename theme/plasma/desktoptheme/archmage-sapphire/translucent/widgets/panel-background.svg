@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="center" fill="#0b182a" fill-opacity=".84"><path d="M8 8h32v32H8z"/>
+  </g>
+  <path id="mask-center" d="M8 8h32v32H8z" fill="#fff"/>
+  <g id="top" fill="#0b182a" fill-opacity=".84"><path d="M8 0h32v8H8z"/>
+    <path d="M8 0.75h32" fill="none" stroke="#76b8e7" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-top" d="M8 0h32v8H8z" fill="#fff"/>
+  <g id="bottom" fill="#0b182a" fill-opacity=".84"><path d="M8 40h32v8H8z"/>
+    <path d="M8 47.25h32" fill="none" stroke="#577d9d" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-bottom" d="M8 40h32v8H8z" fill="#fff"/>
+  <g id="left" fill="#0b182a" fill-opacity=".84"><path d="M0 8h8v32H0z"/>
+    <path d="M.75 8v32" fill="none" stroke="#577d9d" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-left" d="M0 8h8v32H0z" fill="#fff"/>
+  <g id="right" fill="#0b182a" fill-opacity=".84"><path d="M40 8h8v32h-8z"/>
+    <path d="M47.25 8v32" fill="none" stroke="#577d9d" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-right" d="M40 8h8v32h-8z" fill="#fff"/>
+  <g id="topleft" fill="#0b182a" fill-opacity=".84"><path d="M0 8a8 8 0 0 1 8-8v8z"/>
+    <path d="M.75 8A7.25 7.25 0 0 1 8 .75" fill="none" stroke="#76b8e7" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-topleft" d="M0 8a8 8 0 0 1 8-8v8z" fill="#fff"/>
+  <g id="topright" fill="#0b182a" fill-opacity=".84"><path d="M40 0a8 8 0 0 1 8 8h-8z"/>
+    <path d="M40 .75A7.25 7.25 0 0 1 47.25 8" fill="none" stroke="#76b8e7" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-topright" d="M40 0a8 8 0 0 1 8 8h-8z" fill="#fff"/>
+  <g id="bottomleft" fill="#0b182a" fill-opacity=".84"><path d="M0 40h8v8a8 8 0 0 1-8-8z"/>
+    <path d="M.75 40A7.25 7.25 0 0 0 8 47.25" fill="none" stroke="#577d9d" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-bottomleft" d="M0 40h8v8a8 8 0 0 1-8-8z" fill="#fff"/>
+  <g id="bottomright" fill="#0b182a" fill-opacity=".84"><path d="M40 40h8a8 8 0 0 1-8 8z"/>
+    <path d="M47.25 40A7.25 7.25 0 0 1 40 47.25" fill="none" stroke="#577d9d" stroke-opacity=".85" stroke-width="1.5"/>
+  </g>
+  <path id="mask-bottomright" d="M40 40h8a8 8 0 0 1-8 8z" fill="#fff"/>
+  <rect id="hint-top-margin" width="6" height="6" fill="#f0f"/>
+  <rect id="hint-bottom-margin" width="6" height="6" fill="#f0f"/>
+  <rect id="hint-left-margin" width="6" height="6" fill="#f0f"/>
+  <rect id="hint-right-margin" width="6" height="6" fill="#f0f"/>
+</svg>

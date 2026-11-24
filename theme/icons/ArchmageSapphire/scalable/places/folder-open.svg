@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="amethyst" x2=".78" y2="1"><stop stop-color="#397fb5"/><stop offset=".48" stop-color="#225686"/><stop offset="1" stop-color="#123054"/></linearGradient>
+  </defs>
+  <path d="M5 47V16q0-4 4-4h14l7 6h24q5 0 5 5v24Z" fill="#142e4c" stroke="#90caff" stroke-width="1.5"/>
+  <g fill="url(#amethyst)" stroke="#85baf1" stroke-width="1.4"><path d="M5 25h54l-5 25q-1 4-5 4H12q-4 0-4-4Z"/></g>
+  <path d="M11 32v-5h6m30 0h6v5M12 43v5h5m30 0h5v-5" fill="none" stroke="#a9cee8" stroke-opacity=".8" stroke-width="1.2"/>
+  <g fill="none" stroke="#e2f6ff" stroke-width="2.3" stroke-linejoin="round" stroke-linecap="round"><path d="M32 28l2.5 7.5L42 38l-7.5 2.5L32 48l-2.5-7.5L22 38l7.5-2.5Z"/></g>
+</svg>

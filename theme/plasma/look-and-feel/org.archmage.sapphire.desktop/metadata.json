@@ -1,0 +1,9 @@
+{
+  "KPlugin": {
+    "Name": "Archmage Sapphire",
+    "Id": "org.archmage.sapphire.desktop",
+    "Description": "A sapphire-blue desktop with ice-cyan and silver accents.",
+    "Version": "1.0.0"
+  },
+  "KPackageStructure": "Plasma/LookAndFeel"
+}
