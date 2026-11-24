@@ -29,6 +29,7 @@ The installer copies the theme into `${XDG_DATA_HOME:-$HOME/.local/share}` and d
 
 <img width="2560" height="1599" alt="image" src="https://github.com/user-attachments/assets/fbaa6124-c28d-483f-8419-2a810ac8afef" />
 
+
 ## Wallpaper artwork
 
 The wallpapers were created with Codex image generation tool.
